@@ -76,9 +76,12 @@
 
 ### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=plastic&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ---
