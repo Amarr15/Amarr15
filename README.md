@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Amarr15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amarr15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarr15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amarr15&icon=0&color=0)](https://visitcount.itsvg.in)
